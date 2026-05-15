@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color palette (updated by Sriram A S) -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#42A5F5</color>
+
+    <color name="primaryBlue">#1565C0</color>
+    <color name="textWhite">#FFFFFF</color>
+    <color name="textMuted">#888888</color>
+
+    <!-- Status Badge Colors (Light Theme) -->
+    <color name="statusEmptyBgLight">#EAF3DE</color>
+    <color name="statusEmptyTextLight">#3B6D11</color>
+    <color name="statusFillingBgLight">#FAEEDA</color>
+    <color name="statusFillingTextLight">#854F0B</color>
+    <color name="statusFullBgLight">#FCEBEB</color>
+    <color name="statusFullTextLight">#A32D2D</color>
+    <color name="statusNoDataBgLight">#F5F5F5</color>
+    <color name="statusNoDataTextLight">#888888</color>
+
+    <!-- Legacy / Dark Theme Colors (for backward compatibility if still referenced) -->
+    <color name="darkBg">#1E1E1E</color>
+    <color name="itemBg">#2A2A2A</color>
+    <color name="textGrey">#B0B0B0</color>
+    <color name="surfaceGrey">#333333</color>
+    <color name="dangerRed">#E24B4A</color>
+    <color name="statusEmpty">#3B6D11</color>
+    <color name="statusFilling">#854F0B</color>
+    <color name="statusFull">#A32D2D</color>
+    <color name="bgEmpty">#EAF3DE</color>
+    <color name="bgFilling">#FAEEDA</color>
+    <color name="bgFull">#FCEBEB</color>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F5F5">
+
+    <TextView
+        android:id="@+id/tvToolbarAlternatives"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#1A56A0"
+        android:gravity="center"
+        android:text="Shared Auto Contacts"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bus is full. Try these nearby options:"
+        android:textSize="13sp"
+        android:textColor="#888888"
+        android:padding="12dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvAlternatives"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Confidential and local configuration
+app/google-services.json
+google-services.json
+local.properties
+secrets.properties
+*.jks
+*.keystore
+*.p12

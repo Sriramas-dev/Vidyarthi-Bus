@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_title">About This App</string>
+    <string name="about_dev">Sriram A S</string>
+    <string name="about_usn">1HK22IS109</string>
+    <string name="about_college">HKBK College of Engineering</string>
+    <string name="about_version">v1.0 | BIS803 | 2025-26</string>
+    <string name="about_desc">Vidyarthi-Bus is a crowdsourced bus occupancy alert app built for rural college students. Tap once to report seat status. See live crowd levels before your bus arrives.</string>
+</resources>

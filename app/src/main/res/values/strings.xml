@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Vidyarthi-Bus</string>
+    <string name="developer_name">Sriram A S</string>
+    <string name="usn">1HK22IS109</string>
+    <string name="college_name">HKBK College of Engineering</string>
+    <string name="department">Department of Information Science &amp; Engineering</string>
+
+    <string name="app_title">Vidyarthi-Bus</string>
+    <string name="app_subtitle">Crowdsourced Bus Alert</string>
+    <string name="hint_college_id">Enter College ID</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="title_choose_bus">Choose Your Bus</string>
+    <string name="prefix_bus_routes">Bus Routes - %s</string>
+    <string name="status_empty">EMPTY</string>
+    <string name="status_filling">FILLING</string>
+    <string name="status_full">FULL</string>
+    <string name="status_no_data">NO DATA</string>
+    <string name="label_crowd_level">Crowd level</string>
+    <string name="legend_empty">Empty</string>
+    <string name="legend_filling">Filling</string>
+    <string name="legend_full">Full</string>
+    <string name="last_reported">last reported %1$d mins ago</string>
+    <string name="title_no_updates">No recent updates</string>
+    <string name="subtitle_no_updates">Crowd status hasn\'t been reported yet. Be the first!</string>
+    <string name="last_report_none">Last report — none —</string>
+    <string name="btn_report_full">Report — No Seats Left</string>
+    <string name="btn_find_alternatives">Find Alternatives</string>
+    <string name="title_alternatives">Shared Auto Contacts</string>
+    <string name="alternatives_hint">Bus is full. Try these nearby options:</string>
+    <string name="toast_near_route">You must be near the bus route!</string>
+    <string name="toast_status_updated">Status updated to FULL</string>
+    <string name="toast_location_error">Could not get current location</string>
+    <string name="toast_error">Error: %s</string>
+    <string name="toast_failed_load">Failed to load routes: %s</string>
+</resources>
